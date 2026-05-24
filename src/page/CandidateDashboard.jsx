@@ -19,6 +19,7 @@ import CandidateEducation from './candidate/CandidateEducation';
 import CandidateResume from './candidate/CandidateResume';
 import CandidateAlert from './candidate/CandidateAlert';
 import CandidateSettings from './candidate/CandidateSettings';
+import CandidateMatches from './candidate/CandidateMatches';
 import Footer from "../component/Footer";
 
 const CandidateDashboard = () => {
